@@ -55,14 +55,6 @@ id = "email"
 url = "aksoyfurkan45@gmail.com"
 
 [[params.social]]
-id = "netease-music"
-url = "#"
-
-[[params.social]]
-id = "telegram"
-url = "#"
-
-[[params.social]]
 id = "x"
 url = "https://twitter.com/FurkanTheHuman"
 
@@ -108,7 +100,7 @@ unsafe = true
 
 
 [params.UmamiAnalytics]
-enabled = true
+enabled = false
 dnt = false
 id = "e4f661ff-9a8c-49d4-b3cc-2efe553e3973"                                            # Website ID
 datacache = false
